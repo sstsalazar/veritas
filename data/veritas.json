@@ -1,0 +1,684 @@
+[
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...726...43A",
+            "arxiv": "http://arxiv.org/abs/1011.1053",
+            "label": "Ap.J. 726, 43 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/726/1/43"
+        },
+        "COMMENTS": {
+            "LiveTime": 21.2,
+            "Name": "3C66A",
+            "Redshift": 0.335,
+            "Significance": 22.2,
+            "Tag": "Oct. 2007 low"
+        },
+        "DESCRIBE": "From 33h of live time observations taken between 2007-2008. This is for non flare state observations",
+        "MJD": {
+            "END": 54749,
+            "START": 54734
+        },
+        "OBJECT": "3C66A",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...726...43A",
+            "arxiv": "http://arxiv.org/abs/1011.1053",
+            "label": "Ap.J. 726, 43 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/726/1/43"
+        },
+        "COMMENTS": {
+            "LiveTime": 6.0,
+            "Name": "3C66A",
+            "Redshift": 0.335,
+            "Significance": 18.0,
+            "Tag": "Oct. 2007 high"
+        },
+        "DESCRIBE": "From 33h of live time observations taken between 2007-2008. This is for a high flaring state in Oct. 8-10 2007",
+        "MJD": {
+            "END": 54749,
+            "START": 54747
+        },
+        "OBJECT": "3C66A",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2013ApJ...762...92A",
+            "arxiv": "http://arxiv.org/abs/1211.3073",
+            "label": "Ap.J. 762, 92 (2012)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/762/2/92"
+        },
+        "COMMENTS": {
+            "LiveTime": 0.58,
+            "Name": "BL Lacertae",
+            "Redshift": 0.069,
+            "Significance": 21.8,
+            "Tag": 2011
+        },
+        "DESCRIBE": "A short flare caught on 28th June 2011 with 3 telescope observations",
+        "MJD": {
+            "END": 55740.46041667,
+            "START": 55740.43194444
+        },
+        "OBJECT": "BL Lacertae",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 1.4,
+            "Name": "Mrk421_2008_highA",
+            "Redshift": 0.031,
+            "Significance": 73.0,
+            "Tag": "highA"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity 0.8e-10 < flux(E>1TeV) < 1.1e-10",
+        "MJD": {
+            "END": 54622.18955,
+            "START": 54502.46971
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 0.6,
+            "Name": "Mrk421_2008_highB",
+            "Redshift": 0.031,
+            "Significance": 47.3,
+            "Tag": "highB"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity ? < flux(E>1TeV) < ?",
+        "MJD": {
+            "END": 54589.3248,
+            "START": 54589.28015
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 0.6,
+            "Name": "Mrk421_2008_highC",
+            "Redshift": 0.031,
+            "Significance": 53.8,
+            "Tag": "highC"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity 1.1e-10 < flux(E>1TeV) < 1.5e-10",
+        "MJD": {
+            "END": 54589.3248,
+            "START": 54589.28015
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 16.3,
+            "Name": "Mrk421_2008_low",
+            "Redshift": 0.031,
+            "Significance": 181.3,
+            "Tag": "low"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity 2.5e-11 < flux(E>1TeV) < 4.88e-11",
+        "MJD": {
+            "END": 54618.20065,
+            "START": 54466.39067
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 7.8,
+            "Name": "Mrk421_2008_mid",
+            "Redshift": 0.031,
+            "Significance": 160.6,
+            "Tag": "mid"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity 4.88e-11 < flux(E>1TeV) < 0.8e-10",
+        "MJD": {
+            "END": 54613.21471,
+            "START": 54478.40461
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 0.6,
+            "Name": "Mrk421_2008_veryhigh",
+            "Redshift": 0.031,
+            "Significance": 53.8,
+            "Tag": "veryhigh"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity flux(E>1TeV) > 1.5e-10",
+        "MJD": {
+            "END": 54589.30958,
+            "START": 54588.29027
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738...25A",
+            "arxiv": "http://arxiv.org/abs/1106.1210",
+            "label": "Ap.J. 738, 25 (2011)",
+            "url": "http://iopscience.iop.org/0004-637X/738/1/25/"
+        },
+        "COMMENTS": {
+            "LiveTime": 7.8,
+            "Name": "Mrk421_2008_verylow",
+            "Redshift": 0.031,
+            "Significance": 77.6,
+            "Tag": "verylow"
+        },
+        "DESCRIBE": "Spectral points for multiwavelength campaign; Observations taken between 2008 January 01 and 2008 June 05; Flux sensitivity flux(E>1TeV) < 2.5e-11",
+        "MJD": {
+            "END": 54620.17623,
+            "START": 54474.36713
+        },
+        "OBJECT": "Mrk 421",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...729....2A",
+            "arxiv": "http://arxiv.org/abs/1012.2200",
+            "label": "ApJ 729, 2 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/729/1/2"
+        },
+        "COMMENTS": {
+            "LiveTime": 2.43,
+            "Name": "Markarian 501",
+            "Redshift": 0.034,
+            "Significance": 12.7,
+            "Tag": "March 2009 quiescent"
+        },
+        "DESCRIBE": "Quiescent state observations from a MWL campaign in March 2009",
+        "MJD": {
+            "END": 54914.48541667,
+            "START": 54914.38333333
+        },
+        "OBJECT": "Mrk501",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2015ApJ...799....7A",
+            "arxiv": "http://arxiv.org/abs/1411.1439",
+            "label": "Ap.J. 799, 7 (2015)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/799/1/7"
+        },
+        "COMMENTS": {
+            "LiveTime": 80,
+            "Name": "PG1553+113",
+            "Redshift": null,
+            "Significance": 53,
+            "Tag": "2010-11"
+        },
+        "DESCRIBE": "Spectrum from 95h of observations taken between May 2010 to July 2011. Data are time and flux averaged.",
+        "MJD": {
+            "END": 55744.26041667,
+            "START": 55321.32569444
+        },
+        "OBJECT": "PG1553+113",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2014ApJ...785L..16A",
+            "arxiv": "http://arxiv.org/abs/1403.4308",
+            "label": "Ap.J. 785, 16 (2014)",
+            "url": "http://dx.doi.org/10.1088/2041-8205/785/1/L16"
+        },
+        "COMMENTS": {
+            "LiveTime": 28.5,
+            "Name": "PKS1424+240",
+            "Redshift": 0.604,
+            "Significance": 8.5,
+            "Tag": 2009
+        },
+        "DESCRIBE": "Spectrum from observations taken between February and June 2009 during an elevated state. Data are time and flux averaged and observations taken in V4 array configuration.",
+        "MJD": {
+            "END": 55003.20902778,
+            "START": 54881.43958333
+        },
+        "OBJECT": "PKS1424+240",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2014ApJ...785L..16A",
+            "arxiv": "http://arxiv.org/abs/1403.4308",
+            "label": "Ap.J. 785, 16 (2014)",
+            "url": "http://dx.doi.org/10.1088/2041-8205/785/1/L16"
+        },
+        "COMMENTS": {
+            "LiveTime": 14.6,
+            "Name": "PKS1424+240",
+            "Redshift": 0.604,
+            "Significance": 8.1,
+            "Tag": 2011
+        },
+        "DESCRIBE": "Spectrum from observations taken between February and May 2011 during a low state. Data are time and flux averaged and observations taken in V5 array configuration.",
+        "MJD": {
+            "END": 55711.25833333,
+            "START": 55598.51041667
+        },
+        "OBJECT": "PKS1424+240",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2014ApJ...785L..16A",
+            "arxiv": "http://arxiv.org/abs/1403.4308",
+            "label": "Ap.J. 785, 16 (2014)",
+            "url": "http://dx.doi.org/10.1088/2041-8205/785/1/L16"
+        },
+        "COMMENTS": {
+            "LiveTime": 66.8,
+            "Name": "PKS1424+240",
+            "Redshift": 0.604,
+            "Significance": 14.4,
+            "Tag": 2013
+        },
+        "DESCRIBE": "Spectrum from observations taken between February and June 2013 during an elevated state. Data are time and flux averaged and observations taken in V5 array configuration.",
+        "MJD": {
+            "END": 56451.22986111,
+            "START": 56334.44861111
+        },
+        "OBJECT": "PKS1424+240",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2012ApJ...750...94A",
+            "arxiv": "http://arxiv.org/abs/1204.0865",
+            "label": "Ap.J. 750, 94 (2012)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/750/2/94"
+        },
+        "COMMENTS": {
+            "LiveTime": 26.0,
+            "Name": "RBS 0413",
+            "Redshift": 0.19,
+            "Significance": 5.5,
+            "Tag": "2008-10"
+        },
+        "DESCRIBE": "Spectrum from 48h of observations taken between September 2008 and January 2010. Data are time and flux averaged and comprise mixed V4 and V5 array configurations.",
+        "MJD": {
+            "END": 54883,
+            "START": 54732
+        },
+        "OBJECT": "RBS 0413",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2010ApJ...715L..49A",
+            "arxiv": "http://arxiv.org/abs/1005.0041",
+            "label": "Ap.J. 715, L49 (2010)",
+            "url": "http://dx.doi.org/10.1088/2041-8205/715/1/L49"
+        },
+        "COMMENTS": {
+            "LiveTime": 22.1,
+            "Name": "RGBJ0710+591",
+            "Redshift": 0.125,
+            "Significance": 5.5,
+            "Tag": "2008-9"
+        },
+        "DESCRIBE": "Spectrum from 22h livetime of observations taken from December 2008 to March 2009. Data are time and flux averaged and in V4 array configuration.",
+        "MJD": {
+            "END": 54892.24027778,
+            "START": 54820.33611111
+        },
+        "OBJECT": "RGBJ0710+591",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...742..127A",
+            "arxiv": "http://arxiv.org/abs/1110.5949",
+            "label": "Ap.J. 742, 127 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/742/2/127"
+        },
+        "COMMENTS": {
+            "LiveTime": 19.3,
+            "Name": "RXJ0648.7+1516",
+            "Redshift": 0.179,
+            "Significance": 5.2,
+            "Tag": 2010
+        },
+        "DESCRIBE": "Spectrum from 19h livetime of observations taken in March-April 2010. Data are time and flux averaged and in V5 telescope configuration.",
+        "MJD": {
+            "END": 55301.14444444,
+            "START": 55259.125
+        },
+        "OBJECT": "RXJ0648.7+1516",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2008ApJ...684L..73A",
+            "arxiv": "http://arxiv.org/abs/0808.0889",
+            "label": "Ap.J. 684, 783 (2008)",
+            "url": "http://dx.doi.org/10.1086/592244"
+        },
+        "COMMENTS": {
+            "LiveTime": 39.5,
+            "Name": "WComae",
+            "Redshift": 0.102,
+            "Significance": 8.6,
+            "Tag": "2008 pre flare"
+        },
+        "DESCRIBE": "Spectrum from 39.5h livetime of observations taken between Jan.-Apr. 2008. Data are time and flux averaged and in V4 telescope configuration.",
+        "MJD": {
+            "END": 54509.04444444,
+            "START": 54475.44722222
+        },
+        "OBJECT": "W Comae",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2014ApJ...782...13A",
+            "arxiv": "http://arxiv.org/abs/1312.6592",
+            "label": "Ap.J. 782, 13 (2014)",
+            "url": "https://doi.org/10.1088/0004-637X/782/1/13"
+        },
+        "COMMENTS": {
+            "LiveTime": 54.3,
+            "Name": "1ES0229+200",
+            "Redshift": 0.1396,
+            "Significance": 11.7,
+            "Tag": "2009-2012"
+        },
+        "DESCRIBE": "Spectral points for a three year multi-wavelength study with observations taken between 2009-2012. Data are time averaged.",
+        "MJD": {
+            "END": 55951,
+            "START": 55118
+        },
+        "OBJECT": "1ES0229+200",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2012ApJ...755..118A",
+            "arxiv": "http://arxiv.org/abs/1206.4080",
+            "label": "Ap.J. 755, 118 (2012)",
+            "url": "http://iopscience.iop.org/0004-637X/755/2/118"
+        },
+        "COMMENTS": {
+            "LiveTime": 56.2,
+            "Name": "1ES0414+009",
+            "Redshift": 0.287,
+            "Significance": 6.4,
+            "Tag": "2008-2011"
+        },
+        "DESCRIBE": "Spectral points for a three year multi-wavelength study with observations taken between 2008-2011. Data are time averaged.",
+        "MJD": {
+            "END": 55598.11944444,
+            "START": 54475.125
+        },
+        "OBJECT": "1ES0414+009",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2009ApJ...690L.126A",
+            "arxiv": "http://arxiv.org/abs/0812.0978",
+            "label": "Ap.J. 690, L126 (2009)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/690/2/L126"
+        },
+        "COMMENTS": {
+            "LiveTime": 65,
+            "Name": "1ES0806+524",
+            "Redshift": 0.138,
+            "Significance": 6.3,
+            "Tag": "2007-2008"
+        },
+        "DESCRIBE": "Spectral points for observations taken between Nov. 2007 to Apr 2008. Data are time and flux averaged and are for mulitple array configurations.",
+        "MJD": {
+            "END": 54508.20138889,
+            "START": 54064.40625
+        },
+        "OBJECT": "1ES0806+524",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2013ApJ...779...92A",
+            "arxiv": "http://arxiv.org/abs/1310.6498",
+            "label": "Ap.J. 779, 92 (2013)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/779/2/92"
+        },
+        "COMMENTS": {
+            "LiveTime": 42,
+            "Name": "B2 1215+30",
+            "Redshift": 0.237,
+            "Significance": 10.4,
+            "Tag": "2011 spectrum"
+        },
+        "DESCRIBE": "Observations taken between 2008 and 2012, but spectral points are for significant detection in 2011 only. Data are time and flux averaged for 2011 and have contemporaneous MWL observations.",
+        "MJD": {
+            "END": 55718.22916667,
+            "START": 55563.52708333
+        },
+        "OBJECT": "1ES1215+303",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738..169A",
+            "arxiv": "http://arxiv.org/abs/1106.4594",
+            "label": "Ap.J. 738, 169 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/738/2/169"
+        },
+        "COMMENTS": {
+            "LiveTime": 16.0,
+            "Name": "1ES2344+514",
+            "Redshift": 0.044,
+            "Significance": 20.2,
+            "Tag": "2007 high"
+        },
+        "DESCRIBE": "18 hours of observations taken over 37 nights between 0ct. 4, 2007 and Jan. 11, 2008 This is for the low state observations",
+        "MJD": {
+            "END": 54476.15056,
+            "START": 54377.17996
+        },
+        "OBJECT": "1ES2344+514",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2017MNRAS.471.2117A",
+            "arxiv": "http://arxiv.org/abs/1708.02829",
+            "label": "MNRAS 471, 2117 (2017)",
+            "url": "https://doi.org/10.1093/mnras/stx1756"
+        },
+        "COMMENTS": {
+            "LiveTime": 47.2,
+            "Name": "1ES2344+514",
+            "Redshift": 0.044,
+            "Significance": 20.8,
+            "Tag": "2007-2015"
+        },
+        "DESCRIBE": "45 hours of data taken between 2007 and 2015 as part of a VERITAS monitoring program",
+        "MJD": {
+            "END": 57500,
+            "START": 54313
+        },
+        "OBJECT": "1ES2344+514",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2009ApJ...695.1370A",
+            "arxiv": "https://arxiv.org/abs/0901.4561",
+            "label": "Ap.J. 695, 1370 (2009)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/695/2/1370"
+        },
+        "COMMENTS": {
+            "LiveTime": 17.4,
+            "Name": "1ES1218+304",
+            "Redshift": 0.182,
+            "Significance": 10.4,
+            "Tag": 2007
+        },
+        "DESCRIBE": "Spectrum from observations taken in 2007. Data are time and flux averaged over 3 months and 3 telescope configuration.",
+        "MJD": {
+            "END": 54179.38402778,
+            "START": 54115.39444444
+        },
+        "OBJECT": "1ES1218+304",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2010ApJ...709L.163A",
+            "arxiv": "http://arxiv.org/abs/1001.2590",
+            "label": "Ap.J. 709, L163 (2010)",
+            "url": "http://dx.doi.org/10.1088/2041-8205/709/2/L163"
+        },
+        "COMMENTS": {
+            "LiveTime": 27.2,
+            "Name": "1ES1218+304",
+            "Redshift": 0.182,
+            "Significance": 21.8,
+            "Tag": "2008-9"
+        },
+        "DESCRIBE": "Spectrum from observations taken in 2008-9. Data are time and flux averaged over 3 months and 4 telescope configuration.",
+        "MJD": {
+            "END": 54944.325,
+            "START": 54829.49444444
+        },
+        "OBJECT": "1ES1218+304",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2013ApJ...775....3A",
+            "arxiv": "http://arxiv.org/abs/1307.6772",
+            "label": "Ap.J. 775, 3 (2013)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/775/1/3"
+        },
+        "COMMENTS": {
+            "LiveTime": 7.6,
+            "Name": "1ES1959+650",
+            "Redshift": 0.048,
+            "Significance": 16.4,
+            "Tag": "2007-2011"
+        },
+        "DESCRIBE": "Spectrum from observations taken in 2007-2011. Source was in low flux state A total of 7.6h of 4 telescope configuration data are time and flux averaged for the period.",
+        "MJD": {
+            "END": 55862,
+            "START": 54417
+        },
+        "OBJECT": "1ES1959+650",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738..169A",
+            "arxiv": "http://arxiv.org/abs/1106.4594",
+            "label": "Ap.J. 738, 169 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/738/2/169"
+        },
+        "COMMENTS": {
+            "LiveTime": 16.0,
+            "Name": "1ES2344+514",
+            "Redshift": 0.044,
+            "Significance": 20.2,
+            "Tag": "2007 high"
+        },
+        "DESCRIBE": "18 hours of observations taken over 37 nights between 0ct. 4, 2007 and Jan. 11, 2008 This is for the low state observations",
+        "MJD": {
+            "END": 54476.15056,
+            "START": 54377.17996
+        },
+        "OBJECT": "1ES2344+514",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2011ApJ...738..169A",
+            "arxiv": "http://arxiv.org/abs/1106.4594",
+            "label": "Ap.J. 738, 169 (2011)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/738/2/169"
+        },
+        "COMMENTS": {
+            "LiveTime": 2.0,
+            "Name": "1ES2344+514",
+            "Redshift": 0.044,
+            "Significance": 11.0,
+            "Tag": "2007 high"
+        },
+        "DESCRIBE": "18 hours of observations taken over 37 nights between 0ct. 4, 2007 and Jan. 11, 2008 This is for high flare state observations taken on Dec 7, 2007.",
+        "MJD": {
+            "END": 54441.13221,
+            "START": 54441.10309
+        },
+        "OBJECT": "1ES2344+514",
+        "SED_TYPE": "diff_flux_points"
+    },
+    {
+        "ARTICLE": {
+            "ads": "http://adsabs.harvard.edu/abs/2009ApJ...693L.104A",
+            "arxiv": "http://arxiv.org/abs/0901.4527",
+            "label": "Ap.J. 693, 104 (2009)",
+            "url": "http://dx.doi.org/10.1088/0004-637X/693/2/L104"
+        },
+        "COMMENTS": {
+            "LiveTime": 32.2,
+            "Name": "3C66A",
+            "Redshift": 0.335,
+            "Significance": 21.1,
+            "Tag": "2007-2008 average"
+        },
+        "DESCRIBE": "From 33h of live time observations taken between 2007-2008. This is for a high flaring state in Oct. 8-10 2007",
+        "MJD": {
+            "END": 54800,
+            "START": 54350
+        },
+        "OBJECT": "3C66A",
+        "SED_TYPE": "diff_flux_points"
+    }
+]
